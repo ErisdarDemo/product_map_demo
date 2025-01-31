@@ -30,6 +30,11 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
+			<name>README.md</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/README.md</locationURI>
+		</link>
+		<link>
 			<name>Ref</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
@@ -58,6 +63,11 @@
 			<name>Doc/Wiki - Troll Product Map Demo - Justin Reina - GitLab.url</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Doc/Wiki%20-%20Troll%20Product%20Map%20Demo%20-%20Justin%20Reina%20-%20GitLab.url</locationURI>
+		</link>
+		<link>
+			<name>Doc/style.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Doc/style.h</locationURI>
 		</link>
 		<link>
 			<name>Ref/Product Map Demo.mp4.lnk</name>
