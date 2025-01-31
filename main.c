@@ -1,7 +1,7 @@
 /**************************************************************************************************/
 /** @file     main.c
  *  @brief    Troll Product Map Demo
- *  @details  x
+ *  @details  Sample demonstration of control module
  *
  *  @author   Justin Reina, Firmware Engineer
  *  @created  1/30/25
@@ -9,7 +9,6 @@
  *
  *
  *  @section    Opens
- *      Eclipse stdlib includes
  *      outline map for test of tool
  *      review use of static declarations
  *      switch to target hw
@@ -36,6 +35,9 @@
 //Application Routines
 static void os_init(void);
 static void os_delay(int delay_cts);
+
+//Utility Routines
+static int println(char *str);
 
 //Task Routines
 static void system_task(void);
@@ -86,7 +88,7 @@ int main(void) {
 static void os_init(void) {
 
   //Notify
-  printf("Begin Initialization -\r\n\r\n");
+  println("Begin Initialization -\r\n");
 
   //Init Tasks
   system_init();
@@ -98,7 +100,7 @@ static void os_init(void) {
   os_delay(DEMO_LOOP_CTS);
 
   //Notify
-  printf("\r\nInitialization Complete.\r\n\r\n");
+  println("\r\nInitialization Complete.\r\n");
 
   return;
 }
@@ -115,10 +117,34 @@ static void os_init(void) {
 static void os_delay(int delay_cts) {
 
   //Notify
-  printf("Loop Delay\r\n");
+  println("\r\nLoop Delay");
 
   return;
 }
+
+
+/**************************************************************************************************/
+/** @fcn        static void os_init(void)
+ *  @brief      x
+ *  @details    x
+ *
+ *  @parm [in] (char *) str - pointer to str w/EOS term
+ *
+ *  @section  Opens
+ *      using a local for stat??
+ */
+/**************************************************************************************************/
+static int println(char *str) {
+
+  //Locals
+  int stat;                                         /* @todo   descr                              */
+
+  //Print
+  stat = printf("%s\r\n", str);
+
+  return stat;
+}
+
 
 //************************************************************************************************//
 //                                              TASKS                                             //
@@ -133,7 +159,7 @@ static void os_delay(int delay_cts) {
 static void system_task(void) {
 
   //Notify
-  printf("PWM Task\r\n");                           /* Share a clean message                      */
+  println("PWM Task");                              /* Share a clean message                      */
 
   return;
 }
@@ -148,7 +174,7 @@ static void system_task(void) {
 static void pmu_task(void) {
 
   //Notify
-  printf("PWM Task\r\n");                           /* Share a clean message                      */
+  println("PMU Task");                              /* Share a clean message                      */
 
   return;
 }
@@ -163,7 +189,7 @@ static void pmu_task(void) {
 static void data_task(void) {
 
   //Notify
-  printf("PWM Task\r\n");                           /* Share a clean message                      */
+  println("Data Task");                             /* Share a clean message                      */
 
   return;
 }
@@ -178,7 +204,7 @@ static void data_task(void) {
 static void wifi_task(void) {
 
   //Notify
-  printf("WiFi Task\r\n");                          /* Share a clean message                      */
+  printf("WiFi Task");                              /* Share a clean message                      */
 
   return;
 }
@@ -198,7 +224,7 @@ static void wifi_task(void) {
 static void system_init(void) {
 
   //Notify
-  printf("System Init\r\n");                        /* Share a clean message                      */
+  println("System Init");                           /* Share a clean message                      */
 
   return;
 }
@@ -213,7 +239,7 @@ static void system_init(void) {
 static void pmu_init(void) {
 
   //Notify
-  printf("PWM Init\r\n");                           /* Share a clean message                      */
+  println("PMU Init");                              /* Share a clean message                      */
 
   return;
 }
@@ -228,7 +254,7 @@ static void pmu_init(void) {
 static void data_init(void) {
 
   //Notify
-  printf("Data Init\r\n");                          /* Share a clean message                      */
+  println("Data Init");                             /* Share a clean message                      */
 
   return;
 }
@@ -243,7 +269,7 @@ static void data_init(void) {
 static void wifi_init(void) {
 
   //Notify
-  printf("WiFi Init\r\n");                          /* Share a clean message                      */
+  println("WiFi Init");                             /* Share a clean message                      */
 
   return;
 }
