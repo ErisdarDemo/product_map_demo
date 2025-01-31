@@ -34,7 +34,9 @@
 	
 		- 'External Wiki' feat of GitLab? [2]
 	
+	
 @section 	Reference
+
 	1. product-map.ai
 	
 	2. https://www.google.com/search?client=firefox-b-1-d&q=how+to+tie+your+gitlab+repo+%26+wiki+into+an+external+site
