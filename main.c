@@ -5,6 +5,14 @@
  Version     :
  Copyright   : 
  Description : Hello World in C, Ansi-style
+
+ @section   Opens
+   relocate source
+   add dirs here
+   add template
+   populate templ contents!
+   compiles
+   squash
  ============================================================================
  */
 
