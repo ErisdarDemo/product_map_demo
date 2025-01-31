@@ -1,0 +1,41 @@
+@brief 		ProductMap Tool Feedback
+@details 	x
+@auth 		Justin Reina
+@date 		1/30/25
+
+
+@section 	Improvements
+
+	• Header Bar Navigation
+
+		- 'Lines of Code | nnn' navigates to the code open in a seperate tab with syntax highlighting (and maybe even tool navigation!)
+		
+		- 'file.cpp' navigates to the source with syntax highlighting in a pop-up
+		
+		- 'Main Feature | nnn' navigates to some UML summary the user can link to (IF THEY WABT!)
+		
+		- 'Feature Level mmm | nnn' navigates to ?
+			
+		- 'Code Functions | nnn' navigates to ?
+		
+		- 'Code SNuppets | nnn' navigates to ?
+			
+	• Or for any of the header bar listings <expand>
+	
+	• In the 'Product Map' view if I select 'Examples' the back key afterwards does not return to the Product Map as I would expect!
+	
+	• How do I download Heart.cpp?
+	
+	• I LOVE, the export feature. Could this provide format options like CSV or maybe Xlsx?
+	
+	• Let's build an interface and access to code repos & wikis in, maybe streamlined to GitHub/GitLab??
+	
+	• What about repo/wiki interfacing & overlap with this tool? Just a thought
+	
+		- 'External Wiki' feat of GitLab? [2]
+	
+@section 	Reference
+	1. product-map.ai
+	
+	2. https://www.google.com/search?client=firefox-b-1-d&q=how+to+tie+your+gitlab+repo+%26+wiki+into+an+external+site
+
