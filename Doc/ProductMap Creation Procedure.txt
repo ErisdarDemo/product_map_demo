@@ -1,0 +1,15 @@
+@brief 		ProductMap Creation Procedure
+@details 	x
+@auth 		Justin Reina
+@date 		2/1/25
+
+
+@section 	Notes
+
+	1. Open Tool [1]
+	
+	2. Follow along!! VERY CLEAN
+	
+@section 	Reference
+
+	1. https://product-map.ai/
