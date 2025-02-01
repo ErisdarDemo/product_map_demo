@@ -3,7 +3,17 @@
 * brief - Demonstration Code
 * details - Example from Portfolio project
 * auth - Justin Reina
-* date - 1/30/25
+* date - 2/1/25
+
+# Components
+
+1. base - main.c () - test ProductMap against light source
+
+2. stm - main.c (Proj/) - bare-metal STM32 example
+
+3. rtos - main.c (Proj/) - FreeRTOS STM32 example
+
+4. feats - main.c (Proj/) - FreeRTOS STM32 example w/demo features
 
 ### Notes
 

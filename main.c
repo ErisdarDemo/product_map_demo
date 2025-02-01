@@ -66,13 +66,11 @@ int main(void) {
   //Notify
   printf("Begin Demo -\r\n\r\n");
 
-
   //Demo
-    wifi_task();
-    pmu_task();
-    data_task();
-    system_task();
-
+  wifi_task();
+  pmu_task();
+  data_task();
+  system_task();
 
 	return EXIT_SUCCESS;
 }
