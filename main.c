@@ -9,9 +9,10 @@
  *
  *
  *  @section    Opens
- *      outline map for test of tool
  *      review use of static declarations
  *      switch to target hw
+ *		rtos vers
+ *		feats vers
  *      ...!
  *
  *  @section    Hardware

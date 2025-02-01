@@ -1,11 +1,77 @@
 @brief 		ProductMap Tool Feedback
 @details 	x
 @auth 		Justin Reina
-@date 		1/30/25
+@date 		2/1/25
 
 
 @section 	Improvements
 
+	• When I login it goes to the advertising page! I would expect navigation to an entry Control Panel or Navigation Pane for creation and review of ProductMaps
+	
+	• "Upload or drag and drop a single source code file (maximum: 5 MB size and 15,000 lines of code)."
+	
+		- Can this be a '+' button the left for selection, with that summary string printed in text offset to the right of this '+' button?
+		
+			* Drag-n-drop onto this was nice though!! UI is very clean here
+			
+			* I would hope to see '.', '..', '...' processing dots cycling here for 3-5 seconds, indicating you are processing the results. Also consider notification update to this screen, if the user is still waiting here and it completes! That would be a great user experience
+	
+	• If would be nice to show the feature blocks source summary on your map! e.g. for my 'base' demo
+	
+		- "Run demo tasks"
+		
+		- "Execute Tasks"
+		
+		- "Execute PMU Task"
+		
+		...
+		
+		* Differing capitalization here on "tasks" is distracting and confusing
+		
+		* Loving this
+		
+	• Code summaries in sub-windows don't handle long lines (e.g. inline comments) well & wrap!
+	
+		- Mouse scrolling on code window would be nice too
+	
+	• The expand and collapse animations on the graph are great
+	
+	• This tool needs Syntax highlighting! 
+	
+		- Common source syntax highlighting
+		
+		- And more clear block coloring (e.g. Feature block is light purple shade & Function block is ligh brown shade)
+		
+		- And maybe section background shading too!
+
+	• Location identification for Features!
+	
+		- e.g. on entry I thought features were actually code functions, and didn't even expand that for ten minues
+		
+		- e.g. for my 'Execute Data Task' a bottom right label of "main() calls data_task()" or something
+			
+	• Consider having the a pane on the left half of window expose the syntax highlighted source code (e.g. main.c here for my demos)
+	
+		* e.g. for me here, this map was not useful unless I had the IDE open on my other monitor for review
+	
+		* Which may initially be open to half of the screen, for a few seconds and then minimizes. And can be expanded or minimized with a simple & clear arrow button on the left side of window
+		
+		* And consider mapping source to the map here visually with hover overs!!1
+	
+	• 'Share' works great! 
+	
+		- https://product-map.ai/app/public/23b6f7bc-c25f-406e-9f4c-badbbdc0df25
+	
+	• 'Export' feels like it needs options! Got me excited though
+	
+		- I was expecting 'Export' to have page 1 of the PDF display the actual zoomed out ProductMap! Is this posible? Where do you configure the export?
+		
+		- What if 'Export' allows selection of media type (PDF/PNG/...) and config (e.g. p.1. as Map?)
+	
+	• I had no idea how to edit the meta sub-panel information for tasks or rename them
+	
+	• This tool has smooth access & scroll
+		
 	• Header Bar Navigation
 
 		- 'Lines of Code | nnn' navigates to the code open in a seperate tab with syntax highlighting (and maybe even tool navigation!)
@@ -37,7 +103,7 @@
 	
 @section 	Reference
 
-	1. product-map.ai
+	1. https://product-map.ai
 	
 	2. https://www.google.com/search?client=firefox-b-1-d&q=how+to+tie+your+gitlab+repo+%26+wiki+into+an+external+site
 
