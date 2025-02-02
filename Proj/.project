@@ -30,4 +30,16 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Core/Doc</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Core/Doc/style.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Doc/style.h</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

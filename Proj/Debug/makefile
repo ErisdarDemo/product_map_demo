@@ -84,8 +84,8 @@ all: main-build
 main-build: CppDemo.elf secondary-outputs
 
 # Tool invocations
-CppDemo.elf CppDemo.map: $(OBJS) $(USER_OBJS) D:\Documents\MyWorkspaces\CubeIDE\CppDemo\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "CppDemo.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\Documents\MyWorkspaces\CubeIDE\CppDemo\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CppDemo.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+CppDemo.elf CppDemo.map: $(OBJS) $(USER_OBJS) D:\Documents\Me\Resume\Portfolio\Code\ Examples\Demo\ Project\Proj\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-g++ -o "CppDemo.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\Documents\Me\Resume\Portfolio\Code Examples\Demo Project\Proj\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CppDemo.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
