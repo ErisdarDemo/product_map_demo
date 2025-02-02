@@ -5,7 +5,7 @@
  #
  # 	@author		Justin Reina, Firmware Engineer
  # 	@created	1/30/25
- # 	@last rev	1/30/25
+ # 	@last rev	2/3/25
  #
  #
  # 	@section	Opens
@@ -18,3 +18,6 @@
  #/
 ####################################################################################################
 
+# Build Files
+Cube/Debug/
+Proj/Debug/
