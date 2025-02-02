@@ -1,0 +1,32 @@
+@brief 		ProductMap Tool Feedback
+@details 	x
+@auth 		Justin Reina
+@date 		2/2/25
+
+
+@section 	Feedback
+
+	• When I logged back in today the tool didn't recognize me? Where is the status & user info?
+
+		*Maybe I had cleared my cache & browser; not sure
+	
+	• This drag-n-drop feature is really nice, and I appreciate the file info displayed after loaded
+
+	• I like the 'Generated Maps' page, this is nice!
+	
+		*Would be interesting to have a pop-up of the map from the list item
+
+	• Would be nice to be able to select which items are displayed in the tool
+	
+		*And color coding would be very useful here too!
+		
+	• I like how scroll doesn't require a hotkey; I appreciate that
+	
+	• Now that I am using for a hardware application, I would like more ability to customize layout, coloring and visible components
+	
+	• Where your display descriptions are great!! e.g. "Initialize HAL". but I feel a disconnect of ownership without being able to edit
+	
+	• Typedefs just show up at 'typedef ...' ?
+
+	• The scroll view for SystemClock_Config() has a lot of content! 
+

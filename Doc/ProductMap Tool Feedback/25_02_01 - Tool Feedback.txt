@@ -4,7 +4,7 @@
 @date 		2/1/25
 
 
-@section 	Improvements
+@section 	Feedback
 
 	• When I login it goes to the advertising page! I would expect navigation to an entry Control Panel or Navigation Pane for creation and review of ProductMaps
 	
