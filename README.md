@@ -1,25 +1,45 @@
 # Troll Product Map Demo
 
-* brief - Demonstration Code
-* details - Example from Portfolio project
+* brief - C+++ Demonstration Code
+* details - For portfolio illustrating my style & method
 * auth - Justin Reina
 * date - 2/1/25
 
-# Components
 
-1. base - main.c () - test ProductMap against light source
+# Steps
 
-2. stm - main.c (Proj/) - bare-metal STM32 example
+0. Research
 
-3. rtos - main.c (Proj/) - FreeRTOS STM32 example
+1. Architect
 
-4. feats - main.c (Proj/) - FreeRTOS STM32 example w/demo features
+2. Debug Console (tie in?)
 
-### Notes
+3. FreeRTOS with queues
 
-* Control Demo (wip!)
-	
-* [ProductMap Tool Feedback.txt](https://gitlab.com/justinmreina/troll_product_map_demo/-/blob/main/Doc/ProductMap%20Tool%20Feedback.txt?ref_type=heads)
+4. Messaging
+
+5. ...!
+
+# Feats
+
+* STM32
+
+* Freertos
+** Messaging
+** Shared Resources
+
+* Clear Interfaces
+** Fatfs
+** External Communications
+** Debug
+** SPI Peripheral
+
+* Interrupts
+
+* Critical Sections
+
+* Debug Interface
+
 
 ## Reference
 
