@@ -30,3 +30,8 @@
 
 	• The scroll view for SystemClock_Config() has a lot of content! 
 
+	• When looking at my Generated maps listing it would be nice for me to be able to customize each items naming or label (e.g. with all my demos just listed each as 'main.c' gets confusing)
+	
+	• Window for ProductMap has max limitations!! (e.g I tried to rotate my monitor to Portrait for a screen shot of the FreeRTOS map but the window was now capped)
+	
+	
