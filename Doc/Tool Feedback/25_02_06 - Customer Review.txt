@@ -1,0 +1,76 @@
+@brief 		Customer Review
+@details 	Discussion to Explore!
+@auth 		Justin Reina
+@date 		2/6/25
+
+
+@section 	Idea
+
+	1) Network! Prepare your pitch to connect with new audiences, and release! Get your colleague's help then expanding that
+	
+		Toni's connection with Justin
+		
+		*Justin's connection with Toni?
+		
+		*Academic prospect
+		
+			"Look how we can help"
+			
+			*some UW reach outs
+			
+	2) Lay roots
+	
+		e.g. students with succesful capstone projects that use it
+		
+	3) Let it grow
+	
+		and help it grow, listen and adapt!
+		
+		e.g. at student's first job they share for prospect
+
+@section 	Opps!
+
+	Sushree Subhasmita Jena (graduation speech is inspiring!)
+		Eric Klavins connection w/Sushree & Justin
+		
+	Everett Community College
+	
+	Edmonds Community College
+	
+	UW Bothell
+	
+@section 	Capstone Descrip
+
+	AI descrip to understand the code exists?
+	
+	Much more
+	
+	- Visibility of new design ideas
+	
+		@ask 	? how ? more requirements?
+		
+		Giving them full picture visibility that empowers them to connect with the full picture they couldn't see there before that
+		
+			for example Will there, trying to secure shared resources didn't realize how much concurrency his system required!
+		
+		@opp	ProductMap elicits recommendations or question to flush out that new design
+				(because most of this has already down)
+		
+	- Exploration of how that would work (exploring the map for what they propose)
+	
+		Where all the pieces show up! 
+		
+		And now this visibility allows them to plan, secure & expand!!
+		
+@section 	Utility Example
+
+	@q where does that come from?
+	
+		- it comes to life! Starting with your recommendations, and growing through feedback through questions with customer?
+		
+		- e.g. 101 - ask them what their shared resources are and requirements are, then walk through dependency paths, manually here at first for 101, to expose further depenency
+
+@section 	Heat Map Example!
+
+	@todo
+

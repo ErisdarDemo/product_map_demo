@@ -1,0 +1,43 @@
+@brief 		ProductMap Tool Feedback
+@details 	x
+@auth 		Justin Reina
+@date 		2/6/25
+
+
+@section 	Feedback
+
+	• Sycing with the customers expectations, fears & needs?
+	
+	//Customer Entry
+	- Visibility
+		- summary
+
+	- Confirmation
+		- does it meet it my needs?
+		- does this improve?
+		
+	- Security
+		- visibility of tool? understanding	
+	
+	//Developer Intent
+	- make it bold & stand out
+	- make iot pretty
+	- deliver the results!
+	
+	//Team Needs
+	- onboarding
+	- customer interest
+	- getting started
+	
+@section 	Feedback
+	
+	
+	@pre	customer synchronized with ProductMap
+
+	@obs 	team needs cover multiple stages of customer experience
+			- Engagement
+			- Presentation & Exposure			<- will got here
+			- Filtering & Understand
+			- Onboard
+			- Use!								<- you showed up here!
+
