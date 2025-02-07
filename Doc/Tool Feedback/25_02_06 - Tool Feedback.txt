@@ -31,7 +31,6 @@
 	
 @section 	Feedback
 	
-	
 	@pre	customer synchronized with ProductMap
 
 	@obs 	team needs cover multiple stages of customer experience
@@ -41,3 +40,30 @@
 			- Onboard
 			- Use!								<- you showed up here!
 
+@section 	Conversation
+		
+	Practical ideas?
+		Think about modern comparable tools!
+		Adafruit
+		
+	Let's make this too so valuable you can never turn aback
+
+@section 	Adafruit Example
+	@url 	https://learn.adafruit.com
+	
+	- Enter with background comfort graphics 
+	- Clear entry catch phrase in emphasized text box with description below!!
+	
+@section 	Map this?
+	What if followed Adatruit's model with ProductMap?
+	
+	Hero 
+	Message
+	Understanding Code 10x faster
+	
+	//Instead?
+	1. Connect with your customer, presuming there in a hard spot
+		"We're stuck!"
+		
+	2. Good background model 
+		New York transport traffic lights "Went IoT & got lost"

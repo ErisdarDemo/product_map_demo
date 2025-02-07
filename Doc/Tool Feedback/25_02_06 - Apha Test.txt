@@ -1,0 +1,22 @@
+@brief 		Apha Testers
+@details 	x
+@auth 		Justin Reina
+@date 		2/6/25
+
+
+@section 	Current
+
+	Justin Reina
+
+@section 	Consider
+
+	Gagan Karthik Komma - Recent graduate entering the workforce
+	
+		Starting new work, in ten days! Interest to bring along with him to his new work
+
+	Yashaswini Guruprasad - Academic with capstone projects
+
+@section 	Ideas
+	
+	Doc/Web/Team/Prospect - Academic & Industry
+
