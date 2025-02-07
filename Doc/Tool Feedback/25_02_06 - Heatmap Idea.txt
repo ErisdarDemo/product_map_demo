@@ -1,0 +1,39 @@
+@brief 		ProductMap Heat Map Idea
+@details 	x
+@auth 		Justin Reina
+@date 		2/6/25
+
+
+@section 	Prompt
+	
+	What information or utility can be integrated for ProductMap use through heat maps distributed across the ProductMap?
+
+@section 	Coloring
+
+	Improved ProductMap visualization for display
+	
+	• Background shaded sections (functional / modular / hardware / feature)
+	
+	• Colored diagram components!
+	
+	• Consider allowing user customization for the coloring
+	
+	Call out risks, opens or other highlights for record
+	
+@section 	Heat Maps
+
+	Types (Development Completion Status, Risk, ...!)
+
+	Where items on the ProductMap are assigned a value, and a 2D heat map is generated
+	
+	Status reports & development plans can come from this!
+
+	//Customer Soln
+	1. Collaborative Steering (mgmt.)
+	2. Identification of Requirements (engr.)
+	3. Coverage to Understan (team!)
+
+@section 	Shared resources
+
+	Are mapped and described with a visual shading perhaps? Was discussed
+
