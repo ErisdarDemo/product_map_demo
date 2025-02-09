@@ -60,14 +60,14 @@
 			<locationURI>copy_PARENT/Doc/ProductMap%20Tool%20Feedback.txt</locationURI>
 		</link>
 		<link>
+			<name>Doc/Style</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
 			<name>Doc/Wiki - Troll Product Map Demo - Justin Reina - GitLab.url</name>
 			<type>1</type>
 			<locationURI>copy_PARENT/Doc/Wiki%20-%20Troll%20Product%20Map%20Demo%20-%20Justin%20Reina%20-%20GitLab.url</locationURI>
-		</link>
-		<link>
-			<name>Doc/style.h</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Doc/style.h</locationURI>
 		</link>
 		<link>
 			<name>Ref/Product Map Demo.mp4.lnk</name>
@@ -83,6 +83,21 @@
 			<name>System/Troll System Diagram.pdf</name>
 			<type>1</type>
 			<locationURI>copy_PARENT/System/Troll%20System%20Diagram.pdf</locationURI>
+		</link>
+		<link>
+			<name>Doc/Style/source.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Doc/Style/source.c</locationURI>
+		</link>
+		<link>
+			<name>Doc/Style/source.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Doc/Style/source.h</locationURI>
+		</link>
+		<link>
+			<name>Doc/Style/style.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Doc/Style/style.h</locationURI>
 		</link>
 	</linkedResources>
 	<variableList>

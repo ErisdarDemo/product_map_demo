@@ -1,0 +1,19 @@
+@brief 		ProductMap Tool Feedback
+@details 	x
+@auth 		Justin Reina
+@date 		2/8/25
+
+
+@section 	Feedback
+
+	• It would be nice to have the generated maps be grouped and able to be renamed (e.g. seeing five main.c's without description is not useful for me. Can I rename their displayed titles?
+	
+		*re-ordering & grouping this content would be nice too!
+		
+		*I have to push refresh to see when a line completes, can this be automatic?
+
+	• A 'Code Snippet' displayed as "{" is confusing
+	
+	• This graph is way too tall! This is not useful to me in this layout
+
+	• I am concerned with how this tool scales and allows for customization
