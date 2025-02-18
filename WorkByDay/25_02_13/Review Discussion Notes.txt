@@ -1,0 +1,14 @@
+@brief 		Review Discussion Notes
+@details 	x
+@auth 		Justin Reina
+@date 		2/13/25
+
+
+@section 	Notes
+	
+	Project url upload tests (for all three versions, upload per SHA?) Your mobile interface works great! At least for what I test with 
+	
+	Mobile generated maps table has columns that can’t be expanded, cutting words off
+	
+
+
