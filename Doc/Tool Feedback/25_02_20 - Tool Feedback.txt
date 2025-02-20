@@ -1,0 +1,55 @@
+@brief 		ProductMap Tool Feedback
+@details 	x
+@auth 		Justin Reina
+@date 		2/20/25
+
+
+@section 	Ideas
+
+	• What if ProductMap could produce
+		
+		- customer: students? serves good visibility
+		
+		- input: a student project (source code, customer descrip ¶ & list of requirements)
+		
+		- output: Blog summary post describing their solution (needs->...->solution!)
+			
+			* Product Map
+			
+			* Easy Navigation utility through the source!!
+				  
+		- yielding: clear communication from this customer to their targets of new work & help 
+		            sharing their solution
+
+	• Stack Overflow collab? What if ProductMap begins a default plugin anyone can add to help users visualize & discuss their code?
+
+		- Synchronizing Needs, Expertise & Traceability
+		
+@section 	FW Architects/Engineers
+
+	Three types, I've found - 
+	
+	1. Passion - Driven by what they do and results they achieve, typically a synergistic blend of architects & engineers
+	
+		*e.g. Justin & his peers
+	
+	2. Results - They've been good at what they do, delivering results and are steadfast and resolute. Is their code good? .. It works and they will stand behind it.
+	
+		*e.g. the FW architects @ Midmark)
+	
+	3. Success - They target excellence and achieve results, where their continued success over time secures & cements their role 
+	
+		*e.g. Card Access @ Sub-Zero
+		
+@section 	Bootloader/SDK Descrip
+
+	Abstract - All I see is interfaces
+	
+	Complex - Wow, look what's under the hood! Lucky we paid experts (e.g. NXP/ST) to produce it
+	
+	Established - It works, don't worry about it
+
+@section 	Code Base Size Description
+
+	Captured as task upcoming - https://trello.com/c/CpxS1Jyl
+
