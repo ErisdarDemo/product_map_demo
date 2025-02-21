@@ -17,3 +17,16 @@
 	• This graph is way too tall! This is not useful to me in this layout
 
 	• I am concerned with how this tool scales and allows for customization
+	
+@section 	Followup Notes (2/13)
+
+	• Project url upload tests (for all three versions, upload per SHA?) 
+	
+	• The ProductMap mobile interface works great! At least for what I test with 
+	
+	• Mobile generated maps table has columns that can’t be expanded, cutting words off (pushed to #Mobile [1])
+
+@section 	Reference
+
+	1. https://trello.com/c/CUEOj6en
+
