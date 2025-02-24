@@ -1,0 +1,60 @@
+@brief 		Firmware Job Search Feedback
+@details 	Discussion w/Heitor
+@auth 		Justin Reina
+@date 		2/24/25
+
+
+@section 	Prompt
+	Are these questions/issues valid for a FW engineer while looking for a job?
+
+	- Recruiters overlook your resume because they don’t see your technical depth.
+
+		I think recruiter access now to available skillsets comes through a focused lens that filters out a lot. I had created justinreina.com?embedded to help alleviate though
+	
+	- Reading through thousands of lines of firmware code slows you down.
+
+		I never do; I leverage tools like IDE navigation and solution explorers to achieve this
+		
+		IFFFF there was an Eclipse plugin for ProductMap though OMG.
+		
+	- Hiring managers don’t understand your low-level firmware work.
+		
+		I haven't had this problem yet, but I have apprehension that I will be able to communicate this effectively
+		
+	- Not sure what to post online to build your credibility?
+		
+		PORTFOLIO DEMOS OF GOOD CODE - SHOW SHIT THAT WORKS
+		
+	- Struggling to have meaningful conversations in tech interviews?
+		
+		They don't seem to care, sometimes and here - yes
+		
+		Or like with James at Lazurite last week, we talked for thirty minutes about his experiences with Marvel & NXP off-to-the-side, was great!
+
+@section 	Feedback
+	If so, solutions would be (powered by PM):
+
+	- Use AI-powered code maps to highlight your firmware expertise instantly.
+	
+		YES
+	
+	- Navigate and understand complex codebases 10x faster with visual feature maps.
+	
+		YES !!
+	
+	- Share clear, visual maps that showcase your contributions in an engaging way.
+	
+		IFF SO, OMG YES
+	
+	- Generate and share AI-powered insights from your code to stand out in tech communities.
+	
+		Eclipse Plugin OMG !!! Where you could then AUTOMATICALLY integration to STM32 (CubeIDE), NXP (McuExpresso), TI (CCS up to v12.8), Freescale (CodeWarrior), Python (PyDev!) and .... [1]!
+
+	- Show how you think through code with structured insights from AI.
+
+		Wow, YES I love this. Just like how Google's AI assistant to my Google search queries [2] is changing the way I develop
+
+@section 	Reference
+	1. https://en.wikipedia.org/wiki/List_of_Eclipse-based_software
+
+	2. https://www.google.com/search?q=how+to+write+good+code
