@@ -50,9 +50,9 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>main.c</name>
+			<name>main2.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/main.c</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/main2.c</locationURI>
 		</link>
 		<link>
 			<name>Doc/ProductMap Tool Feedback.txt</name>

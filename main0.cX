@@ -453,7 +453,7 @@ typedef enum
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-/* Includes ------------------------------------------------------------------*/
+/* Includes --	----------------------------------------------------------------*/
 #ifdef CUBE_MX_COMPILE
   #include "stm32f4xx_hal_def.h"
 #endif
@@ -1881,7 +1881,7 @@ static uint32_t os_mq_data_##name[(queue_sz) * sizeof(type)]; \
 const osMessageQDef_t os_messageQ_def_##name = \
 { (queue_sz), \
   { NULL, 0U, (&os_mq_cb_##name), sizeof(StaticQueue_t), \
-
+}
 
 /// \brief Access a Message Queue Definition
 #define osMessageQ(name) \
@@ -24403,7 +24403,8 @@ void TIM_CCxChannelCmd(TIM_TypeDef *TIMx, uint32_t Channel, uint32_t ChannelStat
   */
 #if !defined  (LSI_VALUE)
  #define LSI_VALUE  32000U       /*!< LSI Typical Value in Hz*/
-#endif /* LSI_VALUE */                      /*!< Value of the Internal Low Speed oscillator in Hz
+#endif /* LSI_VALUE */                      
+/*!< Value of the Internal Low Speed oscillator in Hz
                                              The real value may vary depending on the variations
                                              in voltage and temperature.*/
 /**
