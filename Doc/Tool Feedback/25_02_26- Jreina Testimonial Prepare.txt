@@ -1,0 +1,30 @@
+@brief 		Jreina Testimonial Prepare
+@details 	Discussion w/Heitor
+@auth 		Justin Reina
+@date 		2/26/25
+
+
+@section 	Prompt
+	Would you give us a testimonial to put on the new website? Either saying how PM is helping you to look for a job (if at all) and/or the main value PM brings to you as an emb dev.
+
+@section 	Example
+	"Product Map AI is powerful in its ability to create maps of the code. I used this for C++ & Python code. Helps understand the levels( in a tree-type structure) of features and functionality better along with a brief description. Easy to browse the map. It helps anyone who needs to understand the code features better. Highly recommend using this if you want to hit the ground running".
+
+	Shushma F.
+	Senior Software Engineer, AI consultant, and a freelancer
+
+@section 	Jreina Value Points
+	Code Visibility
+	Elicits structural awareness to code
+	Gives confidence debugging
+	Brings excitement designing
+	Deliver pride, on delivery
+	
+	
+	//r1
+	"ProductMap is the tool I always expected but never could find; bringing your team's whiteboard visualizations of code now into real time and into your control. Helping synchronize tasks, limiting feature creep and managing shared resources, for me, ProductMap brings confidence to me with implementation of new designs. And excitement, delivering powerful results! Now not only can I produce good code but I can also communicate it - bringing excellence into my firmware design & promoting stronger results"
+
+@section 	Delivered
+
+	"ProductMap is the tool I always expected but never could find; bringing your team's whiteboard visualizations of code now into real time and into your control. Helping synchronize tasks, limiting feature creep and managing shared resources, for me, ProductMap brings me confidence with the implementation of new designs. And excitement, delivering powerful results! Now not only can I produce good code but I can also communicate it - fostering collaboration and bringing excellence into my team's work"
+
