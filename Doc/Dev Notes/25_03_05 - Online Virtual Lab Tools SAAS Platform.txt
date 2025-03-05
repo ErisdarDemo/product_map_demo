@@ -1,0 +1,57 @@
+@brief 		Online Virtual Lab Tools SAAS Platform
+@details 	Sharing ideas
+@auth 		Justin Reina
+@date 		3/5/25
+
+
+@section 	Call
+
+	Engneering & IT Service support for the burgeoning market of embedded IoT
+
+@section 	Opp
+	
+	Providing a Virtual Lab Tools SAAS environment to 
+	
+	a) acclimate new customers
+	
+	b) increase adoption (lowering the risk)
+	
+	c) leveraging utilities (showing them what can be done & giving them the tools)
+	
+	d) having some fun (promote collaboration & community building a larger & sustained solution)
+
+	Something like Wind Rivers  Virtual Labs, but more hands-on with a wider audience [1]
+	
+@section 	Market
+	
+	Established industry entering IIOT
+	
+	Common IOT customers
+	
+	...?
+
+@section 	Tool
+	
+	1) Server use (MySQL ....! Empowering with access, utility & use)
+	
+	2) On-site DAQ test instrumentation (NI USB-DAQ for AIO/DIO/SWITCH/COMMSN, NI Compact-RIO for FPGA & NI PXI for more! To start, I have gotten donations from NI before to start initiatives like this)
+	
+	3) Platform integration (Say you want to get started with say, a Renasas MCU or Cypress PSoC but can't afford the uncertainties to commit? No problem - use our SAAS to integrate & acclimate with many platforms to securely get up to speed)
+	
+	4) HIL/SIL testing - YES, providing instrumentation, example & support to achieve your needs
+	
+	5) Documentation - With like a ProductMap [2] or Driver AI [3]
+	
+	6) Hardware Management
+	
+	7) Hardware Simulation
+
+@section 	Beta
+	x
+
+@section 	Reference
+	1. https://www.windriver.com/studio/virtual-lab
+	
+	2. https://product-map.ai
+	
+	3. https://www.driver.ai
